@@ -4,8 +4,5 @@
 			"name": "journey",
 			"path": "."
 		}
-	],
-	"settings": {
-		"vscode-neovim.neovimExecutablePaths.win32": ""
-	}
+	]
 }
