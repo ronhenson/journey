@@ -5,6 +5,8 @@ created: 2022-10-10
 
 # Journey Brainstorm Database
 
+## IDEA - Get the weather for the location and date of journal entry 
+
 ## tables
 
 - user
